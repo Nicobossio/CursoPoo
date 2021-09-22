@@ -4,7 +4,10 @@ using System.Text;
 
 namespace CursoPOO
 {
-    class Person
+    public class Person
     {
+        public string Name;
+        public int Age;
+
     }
 }

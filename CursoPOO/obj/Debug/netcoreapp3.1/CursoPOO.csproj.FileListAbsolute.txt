@@ -1,0 +1,14 @@
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\bin\Debug\netcoreapp3.1\CursoPOO.exe
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\bin\Debug\netcoreapp3.1\CursoPOO.deps.json
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\bin\Debug\netcoreapp3.1\CursoPOO.runtimeconfig.json
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\bin\Debug\netcoreapp3.1\CursoPOO.runtimeconfig.dev.json
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\bin\Debug\netcoreapp3.1\CursoPOO.dll
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\bin\Debug\netcoreapp3.1\CursoPOO.pdb
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.csproj.AssemblyReference.cache
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.AssemblyInfoInputs.cache
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.AssemblyInfo.cs
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.csproj.CoreCompileInputs.cache
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.dll
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.pdb
+C:\Users\nicob\source\repos\CursoPOO\CursoPOO\obj\Debug\netcoreapp3.1\CursoPOO.genruntimeconfig.cache
